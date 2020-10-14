@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Some facts about me
 image: images/cv.pdf
 permalink: /about/
 ---
@@ -11,6 +11,8 @@ I am a polyglot who knows to speak in English, Tamil, Telugu, Hindi and Chinese(
 <!--* [Website Link](https://aswin-giridhar.github.io/) # currenty decommissioned-->
 * [Github Link](https://github.com/aswin-giridhar/)
 * [Twitter Link](https://twitter.com/aswin_nlp/)
+
+For suggesting corrections to any blogpost, please open an issue [here](https://github.com/aswin-giridhar/aswinlabs/issues/new/).
 
 Tech Stack:
 * Machine Learning: Classification, Clustering, Regression, Outlier Detection, Natural Language Processing, Recommender System, Social Network Mining
@@ -33,6 +35,6 @@ Research Areas which interest me and spend my free time in are:
 
 You can donate me through [Buy me a coffee](https://buymeacoff.ee/aswingiridhar), if you find my blogs useful.
 
-If you want to contact me for any interesting research or exploration work you can mail me at <a href="mailto:aswinsson@gmail.com">aswinsson@gmail.com</a>
+If you want to contact me for any interesting research or exploration work, please feel free to get in touch via <a href="mailto:aswinsson@gmail.com">email</a>
 
 <h6>This website is powered by **[fastpages](https://github.com/fastai/fastpages)</h6>

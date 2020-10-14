@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: images/cv.png
+image: images/cv.pdf
 permalink: /about/
 ---
 

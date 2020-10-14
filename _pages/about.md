@@ -5,9 +5,9 @@ image: images/cv.pdf
 permalink: /about/
 ---
 
-I try to dabble a bit on NLP, IoT and RL in this blog. My main aim for creating this website is to convey my learning to a broader audience. All the thoughts and opinions here are my own. You can take look at my CV [here](/images/cv.pdf). 
+I try to dabble a bit on NLP, Data Mining, IoT and RL in this blog. My main aim for creating this website is to convey my learning to a broader audience. All the thoughts and opinions here are my own. You can take look at my CV [here](/images/cv.pdf). 
 
-In case you want to discuss, correct info on this website or simply want to say Hi. You can reach out to me on the following platforms:
+I am a polyglot who knows to speak in English, Tamil, Telugu, Hindi and Chinese(Mandrain). In case you want to discuss any topics or simply want to say Hi. You can reach out to me on the following platforms:
 <!--* [Website Link](https://aswin-giridhar.github.io/) # currenty decommissioned-->
 * [Github Link](https://github.com/aswin-giridhar/)
 * [Twitter Link](https://twitter.com/aswin_nlp/)
@@ -31,5 +31,8 @@ Research Areas which interest me and spend my free time in are:
 3. IoT and AI on IoT devices
 4. ML in Cloud
 
+You can donate me through [Buy me a coffee](https://buymeacoff.ee/aswingiridhar), if you find my blogs useful.
+
+If you want to contact me for any interesting research or exploration work you can mail me at <a href="mailto:aswinsson@gmail.com">aswinsson@gmail.com</a>
 
 <h6>This website is powered by **[fastpages](https://github.com/fastai/fastpages)</h6>

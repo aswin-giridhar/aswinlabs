@@ -26,10 +26,10 @@ My NLP Research Areas include:
 * Multilingual NLP
 
 Research Areas which interest me and spend my free time in are:
-1) NLP work on Low-Resource Languages with focus on Indic Languages
-2) Reinforcement Learning(RL)
-3) IoT and AI on IoT devices
-4) ML in Cloud
+1. NLP work on Low-Resource Languages with focus on Indic Languages
+2. Reinforcement Learning(RL)
+3. IoT and AI on IoT devices
+4. ML in Cloud
 
 
 <h6>This website is powered by **[fastpages](https://github.com/fastai/fastpages)</h6>

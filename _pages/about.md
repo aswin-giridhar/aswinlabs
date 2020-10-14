@@ -5,7 +5,6 @@ image: images/cv.pdf
 permalink: /about/
 ---
 
-<p>
 I try to dabble a bit on NLP, IoT and RL in this blog. My main aim for creating this website is to convey my learning to a broader audience. All the thoughts and opinions here are my own. You can take look at my CV [here](/images/cv.pdf). 
 
 In case you want to discuss, correct info on this website or simply want to say Hi. You can reach out to me on the following platforms:
@@ -31,6 +30,6 @@ Research Areas which interest me and spend my free time in are:
 2) Reinforcement Learning(RL)
 3) IoT and AI on IoT devices
 4) ML in Cloud
-</p>
+
 
 <h6>This website is powered by **[fastpages](https://github.com/fastai/fastpages)</h6>

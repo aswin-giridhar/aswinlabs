@@ -1,9 +1,7 @@
 {
   
     
-  
-    
-        "post1": {
+        "post0": {
             "title": "Easy sharing and installation of packages for Python using pip and anaconda",
             "content": "Python Package Sharing and installion using Pip . Sharing of the list of python packages can be done by running the following commands in the terminal using pip . On the sender side . This user has to run the below command to gather all the packages which are being used in his/her project. Te hcommand then creates a .txt file with the list of python packages which can then be easily shared with others. . $ pip freeze &gt; requirements.txtOn the receiver side . This user has to run the below command to install all the packages which are present in the requirements.txt file. . $ pip install -r requirements.txt Python Package Sharing and installion using Anaconda . Sharing of the list of python packages can be done by running the following commands in the terminal using Anaconda . On the sender side . This command creates an yml file of with the list of all python and anaconda packages which are being used in the project environment which can then be shared with others. . $ conda env export &gt; environment.ymlOn the receiver side . This user has to run the below command to install all the packages which are present in the environment.yml file. . $ conda env create -f environment.yml",
             "url": "https://aswinlabs.com/python/packages/2020/10/21/Package-sharing-for-python.html",

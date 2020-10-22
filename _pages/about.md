@@ -35,6 +35,6 @@ Research Areas which interest me and spend my free time in are:
 
 You can donate me through [Buy me a coffee](https://buymeacoff.ee/aswingiridhar), if you find my blogs useful.
 
-If you want to contact me for any interesting research or exploration work, please feel free to get in touch via <a href="mailto:aswinsson@gmail.com">email</a>
+If you want to contact me for any interesting research or exploration work, please feel free to get in touch via <a href="mailto:aswinsson@gmail.com">email</a>.
 
 <h6>This website is powered by **[fastpages](https://github.com/fastai/fastpages)</h6>
